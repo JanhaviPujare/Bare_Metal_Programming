@@ -1,0 +1,25 @@
+# STM32CubeIDE generated files
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.su
+
+# IDE project files
+.settings/
+.cproject
+.project
+*.launch
+
+
+# Linker files
+*.ld
+
+# Metadata
+.metadata/
+HelloWorld/
